@@ -1,2 +1,2 @@
 last readme for git project
-README update in github
+README update in github.com
